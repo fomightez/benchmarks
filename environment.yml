@@ -1,0 +1,15 @@
+name: testcatboost
+channels:
+  - conda-forge
+  - default
+
+dependencies:
+  - pandas
+  - lightgbm
+  - xgboost
+  - catboost
+  - pip
+  - pip:
+    - .
+
+  

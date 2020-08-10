@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/benchmarks/master?filepath=model_evaluation_speed%2Fmodel_evaluation_benchmark.ipynb)
+
+
 # Benchmarks
 
 This repo contains different CatBoost benchmarks.
