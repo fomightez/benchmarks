@@ -10,6 +10,6 @@ dependencies:
   - catboost
   - pip
   - pip:
-    - .
+    - matplotlib
 
   
